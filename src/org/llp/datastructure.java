@@ -14,8 +14,12 @@ System.out.println(System.identityHashCode(s3));
 StringBuffer gm=s2.append(s3);
 System.out.println(""+System.identityHashCode(gm));
 
-
-
+System.out.println("this is a chennai");
+System.out.println("this is a koyambedu");
+System.out.println("this is a thiruppur");
+System.out.println("this is a karaikal");
+System.out.println("this is a manamadhurai");
+System.out.println("this is a thiruvallikeni");
 System.out.println(System.identityHashCode(s1));
 System.out.println(System.identityHashCode(s2));
 System.out.println(System.identityHashCode(s3));
